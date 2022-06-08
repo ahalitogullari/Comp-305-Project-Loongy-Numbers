@@ -3,7 +3,7 @@
 Alp Doğukan Halitoğulları - 64679
 
 ### TODO
-- [ ] Take input from the file
+- [x] Take input from the file
 - [ ] Construct readFile() and writeFile() functions
 - [ ] Implement main code
 - [ ] Implement test code
